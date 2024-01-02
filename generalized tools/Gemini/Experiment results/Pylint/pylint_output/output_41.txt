@@ -1,0 +1,8 @@
+************* Module generated_code_41
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_41.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_41.py:11:20: R1721: Unnecessary use of a comprehension, use list(range(n)) instead. (unnecessary-comprehension)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_41.py:17:8: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+
+------------------------------------------------------------------
+Your code has been rated at 7.69/10 (previous run: 7.69/10, +0.00)
+

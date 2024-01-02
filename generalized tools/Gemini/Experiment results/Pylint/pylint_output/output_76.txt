@@ -1,0 +1,20 @@
+************* Module generated_code_76
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:3:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:15:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:16:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:17:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:18:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:19:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:20:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:23:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:24:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:25:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:26:0: W0311: Bad indentation. Found 6 spaces, expected 12 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:27:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:29:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_76.py:15:2: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

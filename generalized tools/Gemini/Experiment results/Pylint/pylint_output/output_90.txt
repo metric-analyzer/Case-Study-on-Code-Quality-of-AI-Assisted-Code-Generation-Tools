@@ -1,0 +1,14 @@
+************* Module generated_code_90
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_90.py:3:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_90.py:13:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_90.py:14:0: W0311: Bad indentation. Found 4 spaces, expected 8 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_90.py:17:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_90.py:18:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_90.py:21:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_90.py:22:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_90.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_90.py:2:18: W0621: Redefining name 'lst' from outer scope (line 25) (redefined-outer-name)
+
+------------------------------------------------------------------
+Your code has been rated at 5.26/10 (previous run: 5.26/10, +0.00)
+

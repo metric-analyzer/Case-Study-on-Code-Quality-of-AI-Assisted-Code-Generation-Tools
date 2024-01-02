@@ -1,0 +1,14 @@
+************* Module generated_code_47
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_47.py:3:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_47.py:5:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_47.py:6:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_47.py:9:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_47.py:11:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_47.py:12:0: W0311: Bad indentation. Found 2 spaces, expected 4 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_47.py:14:0: W0311: Bad indentation. Found 6 spaces, expected 8 (bad-indentation)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_47.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_47.py:9:2: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+

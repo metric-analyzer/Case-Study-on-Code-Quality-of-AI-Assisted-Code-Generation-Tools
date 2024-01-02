@@ -1,0 +1,9 @@
+************* Module generated_code_122
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_122.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_122.py:2:17: W0621: Redefining name 'arr' from outer scope (line 24) (redefined-outer-name)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_122.py:2:22: W0621: Redefining name 'k' from outer scope (line 25) (redefined-outer-name)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_122.py:17:4: W0622: Redefining built-in 'sum' (redefined-builtin)
+
+------------------------------------------------------------------
+Your code has been rated at 6.00/10 (previous run: 6.00/10, +0.00)
+

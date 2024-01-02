@@ -1,0 +1,10 @@
+************* Module generated_code_113
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_113.py:12:0: C0301: Line too long (165/100) (line-too-long)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_113.py:16:0: C0305: Trailing newlines (trailing-newlines)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_113.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_113.py:11:8: W0621: Redefining name 'odd_count' from outer scope (line 2) (redefined-outer-name)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_113.py:10:8: W0612: Unused variable 'i' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 2.86/10 (previous run: 2.86/10, +0.00)
+
