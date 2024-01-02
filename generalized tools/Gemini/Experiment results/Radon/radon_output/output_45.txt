@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_45.py
+    F 2:0 triangle_area - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (3.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_45.py - A (98.99)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_45.py
+    LOC: 10
+    LLOC: 6
+    SLOC: 5
+    Comments: 2
+    Single comments: 2
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 20%
+        (C % S): 40%
+        (C + M % L): 20%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_45.py:
+    h1: 3
+    h2: 7
+    N1: 5
+    N2: 10
+    vocabulary: 10
+    length: 15
+    calculated_length: 24.406371956566698
+    volume: 49.82892142331044
+    difficulty: 2.142857142857143
+    effort: 106.77626019280808
+    time: 5.932014455156004
+    bugs: 0.016609640474436815

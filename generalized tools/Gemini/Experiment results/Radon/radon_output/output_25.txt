@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_25.py
+    F 5:0 factorize - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (4.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_25.py - A (78.39)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_25.py
+    LOC: 17
+    LLOC: 13
+    SLOC: 12
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 6%
+        (C % S): 8%
+        (C + M % L): 6%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_25.py:
+    h1: 7
+    h2: 6
+    N1: 7
+    N2: 14
+    vocabulary: 13
+    length: 21
+    calculated_length: 35.161259458730164
+    volume: 77.70923408096293
+    difficulty: 8.166666666666666
+    effort: 634.6254116611972
+    time: 35.25696731451095
+    bugs: 0.025903078026987644

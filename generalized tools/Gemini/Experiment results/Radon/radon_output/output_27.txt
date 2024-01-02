@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_27.py
+    F 2:0 flip_case - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (4.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_27.py - A (85.32)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_27.py
+    LOC: 13
+    LLOC: 11
+    SLOC: 10
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 8%
+        (C % S): 10%
+        (C + M % L): 8%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_27.py:
+    h1: 1
+    h2: 4
+    N1: 3
+    N2: 6
+    vocabulary: 5
+    length: 9
+    calculated_length: 8.0
+    volume: 20.89735285398626
+    difficulty: 0.75
+    effort: 15.673014640489694
+    time: 0.8707230355827608
+    bugs: 0.0069657842846620865

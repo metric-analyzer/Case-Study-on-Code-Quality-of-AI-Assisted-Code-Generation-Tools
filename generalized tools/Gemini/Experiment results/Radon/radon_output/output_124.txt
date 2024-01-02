@@ -1,0 +1,32 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_124.py
+    F 2:0 valid_date - B
+    F 34:0 is_leap_year - A
+
+2 blocks (classes, functions, methods) analyzed.
+Average complexity: B (5.5)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_124.py - A (79.40)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_124.py
+    LOC: 36
+    LLOC: 22
+    SLOC: 20
+    Comments: 6
+    Single comments: 7
+    Multi: 0
+    Blank: 9
+    - Comment Stats
+        (C % L): 17%
+        (C % S): 30%
+        (C + M % L): 17%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_124.py:
+    h1: 8
+    h2: 22
+    N1: 17
+    N2: 29
+    vocabulary: 30
+    length: 46
+    calculated_length: 122.10749561002054
+    volume: 225.71696739799185
+    difficulty: 5.2727272727272725
+    effort: 1190.1440099166844
+    time: 66.11911166203802
+    bugs: 0.07523898913266396

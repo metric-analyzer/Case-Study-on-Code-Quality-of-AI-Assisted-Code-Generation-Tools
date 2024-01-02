@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_1.py
+    F 3:0 separate_paren_groups - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (5.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_1.py - A (88.09)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_1.py
+    LOC: 29
+    LLOC: 17
+    SLOC: 16
+    Comments: 5
+    Single comments: 0
+    Multi: 7
+    Blank: 6
+    - Comment Stats
+        (C % L): 17%
+        (C % S): 31%
+        (C + M % L): 41%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_1.py:
+    h1: 3
+    h2: 7
+    N1: 7
+    N2: 14
+    vocabulary: 10
+    length: 21
+    calculated_length: 24.406371956566698
+    volume: 69.76048999263462
+    difficulty: 3.0
+    effort: 209.28146997790384
+    time: 11.62674833210577
+    bugs: 0.02325349666421154

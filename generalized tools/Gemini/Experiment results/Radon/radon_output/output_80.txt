@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_80.py
+    F 2:0 is_happy - B
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: B (6.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_80.py - A (93.17)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_80.py
+    LOC: 12
+    LLOC: 8
+    SLOC: 7
+    Comments: 3
+    Single comments: 1
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 25%
+        (C % S): 43%
+        (C + M % L): 25%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_80.py:
+    h1: 5
+    h2: 15
+    N1: 10
+    N2: 21
+    vocabulary: 20
+    length: 31
+    calculated_length: 70.2129994085646
+    volume: 133.97977094150824
+    difficulty: 3.5
+    effort: 468.9291982952788
+    time: 26.05162212751549
+    bugs: 0.04465992364716941

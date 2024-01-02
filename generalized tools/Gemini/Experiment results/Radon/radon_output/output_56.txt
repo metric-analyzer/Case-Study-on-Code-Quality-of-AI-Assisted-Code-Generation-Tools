@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_56.py
+    F 2:0 correct_bracketing - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (5.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_56.py - A (95.80)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_56.py
+    LOC: 15
+    LLOC: 11
+    SLOC: 10
+    Comments: 5
+    Single comments: 1
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 33%
+        (C % S): 50%
+        (C + M % L): 33%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_56.py:
+    h1: 2
+    h2: 4
+    N1: 4
+    N2: 6
+    vocabulary: 6
+    length: 10
+    calculated_length: 10.0
+    volume: 25.84962500721156
+    difficulty: 1.5
+    effort: 38.77443751081734
+    time: 2.1541354172676304
+    bugs: 0.00861654166907052

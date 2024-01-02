@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_77.py
+    F 2:0 iscube - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (3.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_77.py - A (88.82)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_77.py
+    LOC: 19
+    LLOC: 8
+    SLOC: 7
+    Comments: 2
+    Single comments: 0
+    Multi: 7
+    Blank: 5
+    - Comment Stats
+        (C % L): 11%
+        (C % S): 29%
+        (C + M % L): 47%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_77.py:
+    h1: 4
+    h2: 6
+    N1: 5
+    N2: 10
+    vocabulary: 10
+    length: 15
+    calculated_length: 23.509775004326936
+    volume: 49.82892142331044
+    difficulty: 3.3333333333333335
+    effort: 166.09640474436813
+    time: 9.227578041353786
+    bugs: 0.016609640474436815

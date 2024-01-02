@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_115.py
+    F 2:0 max_fill - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (5.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_115.py - A (89.67)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_115.py
+    LOC: 33
+    LLOC: 15
+    SLOC: 14
+    Comments: 2
+    Single comments: 1
+    Multi: 8
+    Blank: 10
+    - Comment Stats
+        (C % L): 6%
+        (C % S): 14%
+        (C + M % L): 30%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_115.py:
+    h1: 5
+    h2: 8
+    N1: 6
+    N2: 12
+    vocabulary: 13
+    length: 18
+    calculated_length: 35.60964047443681
+    volume: 66.60791492653966
+    difficulty: 3.75
+    effort: 249.77968097452373
+    time: 13.876648943029096
+    bugs: 0.022202638308846556

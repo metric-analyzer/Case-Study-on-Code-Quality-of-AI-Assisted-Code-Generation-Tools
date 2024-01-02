@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_38.py
+    F 2:0 decode_cyclic - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (4.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_38.py - A (67.09)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_38.py
+    LOC: 7
+    LLOC: 7
+    SLOC: 4
+    Comments: 0
+    Single comments: 1
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_38.py:
+    h1: 5
+    h2: 10
+    N1: 9
+    N2: 16
+    vocabulary: 15
+    length: 25
+    calculated_length: 44.82892142331043
+    volume: 97.67226489021297
+    difficulty: 4.0
+    effort: 390.6890595608519
+    time: 21.70494775338066
+    bugs: 0.03255742163007099

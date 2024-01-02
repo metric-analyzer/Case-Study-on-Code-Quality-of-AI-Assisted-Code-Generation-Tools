@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_75.py
+    F 2:0 is_multiply_prime - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (3.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_75.py - A (93.06)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_75.py
+    LOC: 23
+    LLOC: 11
+    SLOC: 10
+    Comments: 0
+    Single comments: 0
+    Multi: 7
+    Blank: 6
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 30%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_75.py:
+    h1: 5
+    h2: 7
+    N1: 6
+    N2: 12
+    vocabulary: 12
+    length: 18
+    calculated_length: 31.26112492884004
+    volume: 64.52932501298082
+    difficulty: 4.285714285714286
+    effort: 276.55425005563205
+    time: 15.36412500309067
+    bugs: 0.02150977500432694

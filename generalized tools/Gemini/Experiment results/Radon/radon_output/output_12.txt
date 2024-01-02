@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_12.py
+    F 5:0 longest - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (4.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_12.py - A (97.32)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_12.py
+    LOC: 23
+    LLOC: 10
+    SLOC: 9
+    Comments: 2
+    Single comments: 0
+    Multi: 6
+    Blank: 8
+    - Comment Stats
+        (C % L): 9%
+        (C % S): 22%
+        (C + M % L): 35%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_12.py:
+    h1: 2
+    h2: 3
+    N1: 2
+    N2: 3
+    vocabulary: 5
+    length: 5
+    calculated_length: 6.754887502163469
+    volume: 11.60964047443681
+    difficulty: 1.0
+    effort: 11.60964047443681
+    time: 0.6449800263576005
+    bugs: 0.0038698801581456034

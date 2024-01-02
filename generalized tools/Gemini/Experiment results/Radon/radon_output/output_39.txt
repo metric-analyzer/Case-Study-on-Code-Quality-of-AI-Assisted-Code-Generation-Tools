@@ -1,0 +1,32 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_39.py
+    F 34:0 is_prime - B
+    F 2:0 prime_fib - A
+
+2 blocks (classes, functions, methods) analyzed.
+Average complexity: B (6.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_39.py - A (80.03)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_39.py
+    LOC: 48
+    LLOC: 24
+    SLOC: 23
+    Comments: 7
+    Single comments: 5
+    Multi: 9
+    Blank: 11
+    - Comment Stats
+        (C % L): 15%
+        (C % S): 30%
+        (C + M % L): 33%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_39.py:
+    h1: 7
+    h2: 22
+    N1: 20
+    N2: 40
+    vocabulary: 29
+    length: 60
+    calculated_length: 117.75898006442377
+    volume: 291.47885970765435
+    difficulty: 6.363636363636363
+    effort: 1854.8654708668912
+    time: 103.04808171482729
+    bugs: 0.09715961990255145

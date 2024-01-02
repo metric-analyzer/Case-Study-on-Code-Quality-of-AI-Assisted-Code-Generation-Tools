@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_109.py
+    F 2:0 move_one_ball - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (4.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_109.py - A (95.59)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_109.py
+    LOC: 16
+    LLOC: 7
+    SLOC: 8
+    Comments: 3
+    Single comments: 1
+    Multi: 3
+    Blank: 4
+    - Comment Stats
+        (C % L): 19%
+        (C % S): 38%
+        (C + M % L): 38%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_109.py:
+    h1: 6
+    h2: 11
+    N1: 8
+    N2: 16
+    vocabulary: 17
+    length: 24
+    calculated_length: 53.563522809337215
+    volume: 98.09910819000817
+    difficulty: 4.363636363636363
+    effort: 428.06883573821744
+    time: 23.781601985456525
+    bugs: 0.03269970273000272

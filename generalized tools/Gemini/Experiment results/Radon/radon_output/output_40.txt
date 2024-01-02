@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_40.py
+    F 2:0 triples_sum_to_zero - B
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: B (7.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_40.py - A (76.91)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_40.py
+    LOC: 18
+    LLOC: 16
+    SLOC: 15
+    Comments: 2
+    Single comments: 1
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 11%
+        (C % S): 13%
+        (C + M % L): 11%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_40.py:
+    h1: 6
+    h2: 17
+    N1: 14
+    N2: 28
+    vocabulary: 23
+    length: 42
+    calculated_length: 84.99664330558272
+    volume: 189.98960215439456
+    difficulty: 4.9411764705882355
+    effort: 938.7721518217144
+    time: 52.15400843453969
+    bugs: 0.06332986738479819

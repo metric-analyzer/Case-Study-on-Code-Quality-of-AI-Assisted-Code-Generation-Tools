@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_6.py
+    F 5:0 parse_nested_parens - B
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: B (8.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_6.py - A (86.37)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_6.py
+    LOC: 33
+    LLOC: 18
+    SLOC: 17
+    Comments: 2
+    Single comments: 1
+    Multi: 6
+    Blank: 9
+    - Comment Stats
+        (C % L): 6%
+        (C % S): 12%
+        (C + M % L): 24%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_6.py:
+    h1: 5
+    h2: 9
+    N1: 9
+    N2: 18
+    vocabulary: 14
+    length: 27
+    calculated_length: 40.13896548741762
+    volume: 102.7985828955553
+    difficulty: 5.0
+    effort: 513.9929144777765
+    time: 28.555161915432027
+    bugs: 0.03426619429851843

@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_95.py
+    F 2:0 check_dict_case - B
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: B (7.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_95.py - A (86.56)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_95.py
+    LOC: 33
+    LLOC: 24
+    SLOC: 18
+    Comments: 6
+    Single comments: 1
+    Multi: 11
+    Blank: 3
+    - Comment Stats
+        (C % L): 18%
+        (C % S): 33%
+        (C + M % L): 52%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_95.py:
+    h1: 2
+    h2: 4
+    N1: 3
+    N2: 4
+    vocabulary: 6
+    length: 7
+    calculated_length: 10.0
+    volume: 18.094737505048094
+    difficulty: 1.0
+    effort: 18.094737505048094
+    time: 1.0052631947248942
+    bugs: 0.006031579168349364

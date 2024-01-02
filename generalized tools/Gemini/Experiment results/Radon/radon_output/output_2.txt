@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_2.py
+    F 2:0 truncate_number - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (2.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_2.py - A (89.89)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_2.py
+    LOC: 22
+    LLOC: 7
+    SLOC: 6
+    Comments: 3
+    Single comments: 3
+    Multi: 6
+    Blank: 7
+    - Comment Stats
+        (C % L): 14%
+        (C % S): 50%
+        (C + M % L): 41%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_2.py:
+    h1: 2
+    h2: 3
+    N1: 2
+    N2: 4
+    vocabulary: 5
+    length: 6
+    calculated_length: 6.754887502163469
+    volume: 13.931568569324174
+    difficulty: 1.3333333333333333
+    effort: 18.575424759098897
+    time: 1.0319680421721609
+    bugs: 0.004643856189774725

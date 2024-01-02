@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_11.py
+    F 5:0 string_xor - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (5.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_11.py - A (89.25)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_11.py
+    LOC: 28
+    LLOC: 11
+    SLOC: 10
+    Comments: 1
+    Single comments: 0
+    Multi: 9
+    Blank: 9
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 10%
+        (C + M % L): 36%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_11.py:
+    h1: 5
+    h2: 11
+    N1: 6
+    N2: 12
+    vocabulary: 16
+    length: 18
+    calculated_length: 49.663388279447084
+    volume: 72.0
+    difficulty: 2.727272727272727
+    effort: 196.36363636363635
+    time: 10.909090909090908
+    bugs: 0.024

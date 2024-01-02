@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_51.py
+    F 2:0 remove_vowels - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (3.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_51.py - A (92.52)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_51.py
+    LOC: 10
+    LLOC: 8
+    SLOC: 7
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 10%
+        (C % S): 14%
+        (C + M % L): 10%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_51.py:
+    h1: 2
+    h2: 3
+    N1: 2
+    N2: 4
+    vocabulary: 5
+    length: 6
+    calculated_length: 6.754887502163469
+    volume: 13.931568569324174
+    difficulty: 1.3333333333333333
+    effort: 18.575424759098897
+    time: 1.0319680421721609
+    bugs: 0.004643856189774725

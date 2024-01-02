@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_36.py
+    F 2:0 fizz_buzz - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (4.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_36.py - A (90.06)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_36.py
+    LOC: 9
+    LLOC: 7
+    SLOC: 6
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 11%
+        (C % S): 17%
+        (C + M % L): 11%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_36.py:
+    h1: 4
+    h2: 10
+    N1: 6
+    N2: 12
+    vocabulary: 14
+    length: 18
+    calculated_length: 41.219280948873624
+    volume: 68.53238859703687
+    difficulty: 2.4
+    effort: 164.4777326328885
+    time: 9.13765181293825
+    bugs: 0.022844129532345624

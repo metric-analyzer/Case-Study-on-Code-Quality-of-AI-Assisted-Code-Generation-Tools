@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_67.py
+    F 2:0 fruit_distribution - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (1.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_67.py - A (100.00)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_67.py
+    LOC: 10
+    LLOC: 7
+    SLOC: 6
+    Comments: 4
+    Single comments: 1
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 40%
+        (C % S): 67%
+        (C + M % L): 40%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_67.py:
+    h1: 2
+    h2: 5
+    N1: 3
+    N2: 5
+    vocabulary: 7
+    length: 8
+    calculated_length: 13.60964047443681
+    volume: 22.458839376460833
+    difficulty: 1.0
+    effort: 22.458839376460833
+    time: 1.2477132986922685
+    bugs: 0.007486279792153611

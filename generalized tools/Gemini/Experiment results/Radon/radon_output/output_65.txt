@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_65.py
+    F 2:0 circular_shift - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (1.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_65.py - A (99.37)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_65.py
+    LOC: 12
+    LLOC: 7
+    SLOC: 5
+    Comments: 4
+    Single comments: 3
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 33%
+        (C % S): 80%
+        (C + M % L): 33%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_65.py:
+    h1: 3
+    h2: 4
+    N1: 4
+    N2: 6
+    vocabulary: 7
+    length: 10
+    calculated_length: 12.75488750216347
+    volume: 28.07354922057604
+    difficulty: 2.25
+    effort: 63.16548574629609
+    time: 3.509193652572005
+    bugs: 0.009357849740192013

@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_119.py
+    F 2:0 match_parens - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (5.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_119.py - A (88.71)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_119.py
+    LOC: 18
+    LLOC: 7
+    SLOC: 6
+    Comments: 2
+    Single comments: 1
+    Multi: 6
+    Blank: 5
+    - Comment Stats
+        (C % L): 11%
+        (C % S): 33%
+        (C + M % L): 44%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_119.py:
+    h1: 5
+    h2: 9
+    N1: 5
+    N2: 9
+    vocabulary: 14
+    length: 14
+    calculated_length: 40.13896548741762
+    volume: 53.30296890880645
+    difficulty: 2.5
+    effort: 133.25742227201613
+    time: 7.403190126223119
+    bugs: 0.017767656302935482

@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_72.py
+    F 2:0 will_it_fly - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (2.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_72.py - A (100.00)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_72.py
+    LOC: 8
+    LLOC: 4
+    SLOC: 5
+    Comments: 2
+    Single comments: 1
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 25%
+        (C % S): 40%
+        (C + M % L): 25%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_72.py:
+    h1: 4
+    h2: 7
+    N1: 4
+    N2: 7
+    vocabulary: 11
+    length: 11
+    calculated_length: 27.651484454403228
+    volume: 38.053747805010275
+    difficulty: 2.0
+    effort: 76.10749561002055
+    time: 4.228194200556697
+    bugs: 0.012684582601670092

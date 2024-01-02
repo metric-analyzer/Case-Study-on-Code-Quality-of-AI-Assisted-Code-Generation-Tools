@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_49.py
+    F 2:0 modp - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (4.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_49.py - A (90.23)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_49.py
+    LOC: 17
+    LLOC: 12
+    SLOC: 11
+    Comments: 5
+    Single comments: 1
+    Multi: 0
+    Blank: 5
+    - Comment Stats
+        (C % L): 29%
+        (C % S): 45%
+        (C + M % L): 29%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_49.py:
+    h1: 5
+    h2: 10
+    N1: 10
+    N2: 20
+    vocabulary: 15
+    length: 30
+    calculated_length: 44.82892142331043
+    volume: 117.20671786825557
+    difficulty: 5.0
+    effort: 586.0335893412778
+    time: 32.55742163007099
+    bugs: 0.03906890595608519

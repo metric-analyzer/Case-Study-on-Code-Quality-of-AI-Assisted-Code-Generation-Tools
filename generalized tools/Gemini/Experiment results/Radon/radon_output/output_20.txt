@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_20.py
+    F 5:0 find_closest_elements - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (5.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_20.py - A (83.44)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_20.py
+    LOC: 21
+    LLOC: 14
+    SLOC: 13
+    Comments: 2
+    Single comments: 1
+    Multi: 0
+    Blank: 7
+    - Comment Stats
+        (C % L): 10%
+        (C % S): 15%
+        (C + M % L): 10%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_20.py:
+    h1: 3
+    h2: 9
+    N1: 5
+    N2: 10
+    vocabulary: 12
+    length: 15
+    calculated_length: 33.28421251514428
+    volume: 53.77443751081735
+    difficulty: 1.6666666666666667
+    effort: 89.62406251802892
+    time: 4.9791145843349405
+    bugs: 0.017924812503605784

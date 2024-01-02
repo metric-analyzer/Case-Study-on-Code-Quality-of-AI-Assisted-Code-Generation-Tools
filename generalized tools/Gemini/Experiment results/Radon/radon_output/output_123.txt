@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_123.py
+    F 2:0 get_odd_collatz - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (4.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_123.py - A (90.51)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_123.py
+    LOC: 24
+    LLOC: 13
+    SLOC: 12
+    Comments: 2
+    Single comments: 1
+    Multi: 4
+    Blank: 7
+    - Comment Stats
+        (C % L): 8%
+        (C % S): 17%
+        (C + M % L): 25%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_123.py:
+    h1: 6
+    h2: 8
+    N1: 8
+    N2: 16
+    vocabulary: 14
+    length: 24
+    calculated_length: 39.50977500432694
+    volume: 91.37651812938249
+    difficulty: 6.0
+    effort: 548.259108776295
+    time: 30.45883937646083
+    bugs: 0.03045883937646083

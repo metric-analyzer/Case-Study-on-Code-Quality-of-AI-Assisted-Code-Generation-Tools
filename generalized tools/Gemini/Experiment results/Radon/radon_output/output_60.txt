@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_60.py
+    F 2:0 sum_to_n - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (1.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_60.py - A (100.00)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_60.py
+    LOC: 5
+    LLOC: 3
+    SLOC: 2
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 2
+    - Comment Stats
+        (C % L): 20%
+        (C % S): 50%
+        (C + M % L): 20%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_60.py:
+    h1: 3
+    h2: 5
+    N1: 3
+    N2: 6
+    vocabulary: 8
+    length: 9
+    calculated_length: 16.36452797660028
+    volume: 27.0
+    difficulty: 1.8
+    effort: 48.6
+    time: 2.7
+    bugs: 0.009

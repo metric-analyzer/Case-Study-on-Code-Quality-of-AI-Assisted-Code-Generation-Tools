@@ -1,0 +1,32 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_107.py
+    F 6:0 even_odd_palindrome - A
+    F 2:0 is_palindrome - A
+
+2 blocks (classes, functions, methods) analyzed.
+Average complexity: A (2.5)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_107.py - A (89.00)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_107.py
+    LOC: 20
+    LLOC: 15
+    SLOC: 12
+    Comments: 2
+    Single comments: 1
+    Multi: 3
+    Blank: 4
+    - Comment Stats
+        (C % L): 10%
+        (C % S): 17%
+        (C + M % L): 25%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_107.py:
+    h1: 4
+    h2: 11
+    N1: 7
+    N2: 13
+    vocabulary: 15
+    length: 20
+    calculated_length: 46.053747805010275
+    volume: 78.13781191217038
+    difficulty: 2.3636363636363638
+    effort: 184.68937361058454
+    time: 10.260520756143585
+    bugs: 0.026045937304056792

@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_48.py
+    F 2:0 is_palindrome - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (4.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_48.py - A (96.55)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_48.py
+    LOC: 14
+    LLOC: 8
+    SLOC: 7
+    Comments: 3
+    Single comments: 3
+    Multi: 0
+    Blank: 4
+    - Comment Stats
+        (C % L): 21%
+        (C % S): 43%
+        (C + M % L): 21%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_48.py:
+    h1: 5
+    h2: 8
+    N1: 5
+    N2: 8
+    vocabulary: 13
+    length: 13
+    calculated_length: 35.60964047443681
+    volume: 48.105716335834195
+    difficulty: 2.5
+    effort: 120.26429083958548
+    time: 6.681349491088082
+    bugs: 0.016035238778611398

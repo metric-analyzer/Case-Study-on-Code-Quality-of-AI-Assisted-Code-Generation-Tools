@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_118.py
+    F 2:0 get_closest_vowel - A
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: A (5.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_118.py - A (85.41)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_118.py
+    LOC: 20
+    LLOC: 9
+    SLOC: 8
+    Comments: 4
+    Single comments: 0
+    Multi: 6
+    Blank: 6
+    - Comment Stats
+        (C % L): 20%
+        (C % S): 50%
+        (C + M % L): 50%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_118.py:
+    h1: 6
+    h2: 12
+    N1: 11
+    N2: 18
+    vocabulary: 18
+    length: 29
+    calculated_length: 58.52932501298082
+    volume: 120.92782504182705
+    difficulty: 4.5
+    effort: 544.1752126882217
+    time: 30.23195626045676
+    bugs: 0.04030927501394235

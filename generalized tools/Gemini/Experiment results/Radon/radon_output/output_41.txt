@@ -1,0 +1,31 @@
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_41.py
+    F 2:0 car_race_collision - B
+
+1 blocks (classes, functions, methods) analyzed.
+Average complexity: B (7.0)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_41.py - A (90.23)
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_41.py
+    LOC: 26
+    LLOC: 14
+    SLOC: 13
+    Comments: 6
+    Single comments: 4
+    Multi: 3
+    Blank: 6
+    - Comment Stats
+        (C % L): 23%
+        (C % S): 46%
+        (C + M % L): 35%
+C:\Users\pc\Documents\Case-Study-on-Code-Quality-of-AI-Assisted-Code-Generation-Tools\generalized tools\Gemini\Generated Codes\generated_code_41.py:
+    h1: 4
+    h2: 7
+    N1: 7
+    N2: 12
+    vocabulary: 11
+    length: 19
+    calculated_length: 27.651484454403228
+    volume: 65.72920075410866
+    difficulty: 3.4285714285714284
+    effort: 225.35725972837253
+    time: 12.519847762687363
+    bugs: 0.021909733584702887
